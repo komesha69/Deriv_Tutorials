@@ -66,7 +66,7 @@ This project is licensed under the **MIT License**.
 ## Contact & Support 📧
 If you have any questions, reach out via:
 - **GitHub Issues**: Open an issue for bugs or feature requests
-- **Deriv Community**: Join the discussions on trading automation
+- **Telegram Community**: [Join the discussions on trading automation](https://t.me/Komtraders)
 - **Email**: [HUSTLER69.TRADER@GMAIL.COM](mailto:HUSTLER69.TRADER@GMAIL.COM)
 - **Instagram**: [@komtraders](https://www.instagram.com/komtraders)
 - **YouTube**: [@komtraders](https://www.youtube.com/@komtraders)
