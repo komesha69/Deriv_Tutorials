@@ -16,7 +16,7 @@ Welcome to the **Deriv Tutorials** repository! This project is dedicated to educ
 ## Getting Started 🛠️
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Deriv_Tutorials.git
+git clone https://github.com/komesha69/Deriv_Tutorials.git
 cd Deriv_Tutorials
 ```
 ### 2️⃣ Install Dependencies
